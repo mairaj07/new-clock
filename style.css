@@ -1,0 +1,13 @@
+#clock {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 245px;
+    justify-content: center;
+}
+.min{
+    width: 100%;
+    /* min-height: 100vh; */
+    background-color: linear-gradient(45deg, #0ec8dc, #10d58d);
+    color: #21d70c;
+    position: relative;
+}
