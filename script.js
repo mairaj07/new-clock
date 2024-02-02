@@ -4,7 +4,7 @@ function updateClock() {
     var minutes = now.getMinutes();
     var seconds = now.getSeconds();
     var day = now.getDate();
-    var month = now.getMonth() + 1; // Months are 0-based
+    var month = now.getMonth() + 1; 
     var year = now.getFullYear();
 
     hours = (hours < 10 ? "0" : "") + hours;
